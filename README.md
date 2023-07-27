@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @iyarivky
-
-<!---
-iyarivky/iyarivky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![iyariv](https://github.com/iyarivky/iyarivky/assets/101973571/5e5cf1c8-afcf-44e1-aaf2-8ce80b78a7d7)
